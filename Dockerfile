@@ -14,4 +14,3 @@ RUN chown -R www-data:www-data /var/www/html && \
 EXPOSE 80
 
 # El comando de inicio (CMD) de la imagen base ya es correcto y lanza Apache.
-root@vps-ekoa1:/home/ekoaunlp/contenedor#
